@@ -1,4 +1,4 @@
-# require 'pry'
+require 'pry'
 
 class Song
   
@@ -14,7 +14,6 @@ class Song
     @@artists << @artist
   end
   
-  binding.pry
   
   def self.count
     @@count
