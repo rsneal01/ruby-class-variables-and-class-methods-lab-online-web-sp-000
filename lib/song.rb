@@ -40,7 +40,4 @@ class Song
       end
     end
       
-      # binding.pry
-    end
-  end
 end
