@@ -38,5 +38,6 @@ class Song
       
       end
     end
+    genre_count_hash
   end
 end
