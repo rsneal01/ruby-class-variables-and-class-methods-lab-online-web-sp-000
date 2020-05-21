@@ -51,5 +51,6 @@ class Song
         artist_count_hash[artist] += 1
       end
     end
+    artist_count_hash
   end
 end
